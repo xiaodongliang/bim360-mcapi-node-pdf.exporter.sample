@@ -1,3 +1,5 @@
+**Note: This sample has been posted to [https://github.com/Autodesk-Forge/forge-bim360-clashpdfexport](https://github.com/Autodesk-Forge/forge-bim360-clashpdfexport)**. Please check latest update there.
+
 # BIM 360 Model Coordination - PDF Clash Export
 
 [![node](https://img.shields.io/badge/nodejs-v10+-yellow.svg)](https://nodejs.org)
